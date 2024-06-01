@@ -6,6 +6,4 @@ Le résultat peut être améliorer en utilisant des modèles de LLM plus puissan
 
 ## Demonstration video
 
-<a href="https://youtu.be/2pW99cWqXG0?si=ii0VxaAcL2pvgMjK" target="_blank">
-    <img src="https://youtu.be/2pW99cWqXG0?si=ii0VxaAcL2pvgMjK/0.jpg" alt="Watch the video" width="600" />
-</a>
+https://github.com/Looki-fr/24h-du-code-SchoolofAI/assets/74359642/186d7a11-8c00-4e1d-a8a7-09aa6e8a983d
